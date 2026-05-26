@@ -22,6 +22,7 @@ Para mantener el repositorio organizado y con un aspecto profesional, se recomie
 │   └── ann3musculos.py       # Script principal de procesamiento y entrenamiento de la ANN
 └── data/                     # Carpeta con las tomas de muestras en formato de texto plano (.txt)
     ├── (Archivos de los sujetos de prueba)
+```
 
 📊 Descripción del Dataset y Metodología
 1. Adquisición de Datos
